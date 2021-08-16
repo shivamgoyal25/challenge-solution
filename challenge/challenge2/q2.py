@@ -9,5 +9,4 @@ ec2_metadata_dict["instance_type"]=ec2_metadata.instance_type
 ec2_metadata_dict["public_hostname"]=ec2_metadata.public_hostname
 ec2_metadata_dict["public_ipv4"]=ec2_metadata.public_ipv4
 ec2_metadata_dict["security_groups"]=ec2_metadata.security_groups
-ec2_metadata_dict[""]=ec2_metadata.security_groups
 print(ec2_metadata_dict)

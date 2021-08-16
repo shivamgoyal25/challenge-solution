@@ -4,7 +4,7 @@ def myfunc(a,b):
         a=a[i]
     return a
 object=json.loads(input("Enter Object: "))
-key = input("Enter key:").split('/')
+key = input("Enter key: ").split('/')
 print(myfunc(object, key))
 
  
