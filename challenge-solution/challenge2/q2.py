@@ -15,6 +15,3 @@ pprint(response)
 pprint(response['networkInterfaces'][0]['subnetwork'])
 #To print service account metadata
 pprint(response['serviceAccounts'])
-#pip install google-api-python-client
-#pip install google-auth
-#pip install o
