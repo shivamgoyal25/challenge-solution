@@ -1,0 +1,6 @@
+account_id          = "challenge1-project"
+display_name        = "IAM Admin Service Account"
+project_id          = "challenge1-project"
+role                = "roles/owner"
+compute_role        = "roles/compute.admin"
+network_role        = "roles/compute.networkAdmin"
